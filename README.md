@@ -5,7 +5,8 @@
 A rigorous, linear-algebraic framework for unit systems where:
 - **Units are treated as vectors** in a rational vector space.
 - **Unit changes are passive linear transformations** (coordinate changes) on the dimension space.
-- **Numerical rescaling is an active linear transformation** on the dual space of values.
+- **Numerical rescaling is an active transformation** on the dual space of values.
+- **Fully automatic** after defining your goal system, calculates the values automatically 
 
 ---
 
